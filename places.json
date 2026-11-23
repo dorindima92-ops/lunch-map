@@ -1,0 +1,282 @@
+[
+ {
+  "id": "fat_goose",
+  "name": "Fat Goose Pub",
+  "district": "Наукова",
+  "lat": 50.014675,
+  "lon": 36.219971,
+  "maps": "https://maps.app.goo.gl/pTG2skYQ5fCDM2NH7"
+ },
+ {
+  "id": "shpigel",
+  "name": "Шпіґель",
+  "district": "Наукова",
+  "lat": 50.017992,
+  "lon": 36.225908,
+  "maps": "https://maps.app.goo.gl/oWFFS5eE4VDtW7pn8"
+ },
+ {
+  "id": "dublin_pub",
+  "name": "Dublin Pub",
+  "district": "Наукова",
+  "lat": 50.012005,
+  "lon": 36.228149,
+  "maps": "https://maps.app.goo.gl/zxnjKSvbNZMTKYqh6"
+ },
+ {
+  "id": "strawberry",
+  "name": "Strawberry Lounge Bar",
+  "district": "Наукова",
+  "lat": 50.012488,
+  "lon": 36.22952,
+  "maps": "https://maps.app.goo.gl/SgFHU6SGYKW46W1C8"
+ },
+ {
+  "id": "amelie",
+  "name": "La Brasserie Amelie",
+  "district": "Салтівка",
+  "lat": 49.990484,
+  "lon": 36.290299,
+  "maps": "https://maps.app.goo.gl/HZFGte3nKadDUHHN9"
+ },
+ {
+  "id": "bunker",
+  "name": "Bunker Bar",
+  "district": "Центр",
+  "lat": 50.006225,
+  "lon": 36.236968,
+  "maps": "https://maps.app.goo.gl/3gTBvjrjfmvTUBdo7"
+ },
+ {
+  "id": "smakota",
+  "name": "Кафе Смакота",
+  "district": "Наукова",
+  "lat": 50.015003,
+  "lon": 36.221332,
+  "maps": "https://maps.app.goo.gl/nPuwiePkxW7K5KFq7"
+ },
+ {
+  "id": "vector",
+  "name": "Vector Lounge Bar",
+  "district": "Центр",
+  "lat": 49.985814,
+  "lon": 36.228957,
+  "maps": "https://maps.app.goo.gl/8DPsykEyYexL3SDd8"
+ },
+ {
+  "id": "kefir",
+  "name": "Kefir Pub",
+  "district": "Центр",
+  "lat": 49.989591,
+  "lon": 36.234819,
+  "maps": "https://maps.app.goo.gl/pcUiSdqx4rKJWTd3A"
+ },
+ {
+  "id": "kaskad",
+  "name": "KASKAD& Restaurant",
+  "district": "Центр",
+  "lat": 50.000102,
+  "lon": 36.222767,
+  "maps": "https://maps.app.goo.gl/GxPX8JSR3DaVty2g8"
+ },
+ {
+  "id": "kvin",
+  "name": "KVIN Lounge",
+  "district": "Центр",
+  "lat": 49.998117,
+  "lon": 36.24358,
+  "maps": "https://maps.app.goo.gl/4oMoEbzW2YrPvg4z5"
+ },
+ {
+  "id": "mundstuck",
+  "name": "Mundstuck",
+  "district": "Центр",
+  "lat": 49.995278,
+  "lon": 36.231944,
+  "maps": "https://maps.app.goo.gl/iQs6XAs5STVFWgAD7"
+ },
+ {
+  "id": "mundstuck",
+  "name": "Mundstuck",
+  "district": "Центр",
+  "lat": 49.987567,
+  "lon": 36.232932,
+  "maps": "https://maps.app.goo.gl/Y8yvWttQcLSrVFpW9"
+ },
+ {
+  "id": "shobar",
+  "name": "Шо бар",
+  "district": "Центр",
+  "lat": 49.995918,
+  "lon": 36.233041,
+  "maps": "https://maps.app.goo.gl/NMzJ7n4ZMru6DkD4A"
+ },
+ {
+  "id": "traktor",
+  "name": "Traktor Family Gastro Bar",
+  "district": "ХТЗ",
+  "lat": 49.947704,
+  "lon": 36.373041,
+  "maps": "https://maps.app.goo.gl/k3ryC9oXTZiP5NGa6"
+ },
+ {
+  "id": "zori",
+  "name": "Zori Meat Gastropub",
+  "district": "Нові будинки",
+  "lat": 49.950132,
+  "lon": 36.30317,
+  "maps": "https://maps.app.goo.gl/KKwdJuuUVgCXxhwe6"
+ },
+ {
+  "id": "nikas",
+  "name": "Nikas Restaurant",
+  "district": "Центр",
+  "lat": 49.993014,
+  "lon": 36.229856,
+  "maps": "https://maps.app.goo.gl/vHqVDupKL1qEHTxf7"
+ },
+ {
+  "id": "pavlovsky",
+  "name": "Pavlovsky",
+  "district": "Центр",
+  "lat": 49.987737,
+  "lon": 36.231695,
+  "maps": "https://maps.app.goo.gl/UDA12FJphnrfF3Ut5"
+ },
+ {
+  "id": "amato",
+  "name": "Amato",
+  "district": "Олексіївка",
+  "lat": 50.035522,
+  "lon": 36.218805,
+  "maps": "https://maps.app.goo.gl/8ZDFJJK5nmyLVCFz7"
+ },
+ {
+  "id": "dumky_na_smak",
+  "name": "Думки на смак",
+  "district": "Центр",
+  "lat": 49.988085,
+  "lon": 36.231058,
+  "maps": "https://maps.app.goo.gl/qX2p2TT8tdZsYWHU8"
+ },
+ {
+  "id": "bowling24",
+  "name": "Bowling 24",
+  "district": "Нові будинки",
+  "lat": 49.955706,
+  "lon": 36.320467,
+  "maps": "https://maps.app.goo.gl/rmpTeWWbaHrkf8ec6"
+ },
+ {
+  "id": "lemajour",
+  "name": "LeMajour",
+  "district": "ХТЗ",
+  "lat": 49.95227,
+  "lon": 36.357451,
+  "maps": "https://maps.app.goo.gl/dc1ADc7WqmzyXsi37"
+ },
+ {
+  "id": "parallel_novy",
+  "name": "50th Parallel",
+  "district": "Нові будинки",
+  "lat": 49.943258,
+  "lon": 36.301844,
+  "maps": "https://maps.app.goo.gl/x5pw1TKPHpVHn9iYA"
+ },
+ {
+  "id": "parallel_cold",
+  "name": "50th Parallel",
+  "district": "Холодна Гора",
+  "lat": 49.979633,
+  "lon": 36.178643,
+  "maps": "https://maps.app.goo.gl/esaXDkDsy1yywE456"
+ },
+ {
+  "id": "parallel_alex",
+  "name": "50th Parallel",
+  "district": "Олексіївка",
+  "lat": 50.056986,
+  "lon": 36.203094,
+  "maps": "https://maps.app.goo.gl/A5zsF3Ypz4YvfDjy9"
+ },
+ {
+  "id": "parallel_alex_centr",
+  "name": "50th Parallel",
+  "district": "Центр",
+  "lat": 50.0024,
+  "lon": 36.219307,
+  "maps": "https://maps.app.goo.gl/gQVWG2YMY86tHHwS7"
+ },
+ {
+  "id": "parallel_levada",
+  "name": "50th Parallel",
+  "district": "Левада",
+  "lat": 49.981708,
+  "lon": 36.242056,
+  "maps": "https://maps.app.goo.gl/dtudXbQ9mAXQfbXH7"
+ },
+ {
+  "id": "parallel_htz",
+  "name": "50th Parallel",
+  "district": "ХТЗ",
+  "lat": 49.944282,
+  "lon": 36.370147,
+  "maps": "https://maps.app.goo.gl/9HigGFRN9Pn5zfe2A"
+ },
+ {
+  "id": "parallel_salt",
+  "name": "50th Parallel",
+  "district": "Салтівка",
+  "lat": 50.008654,
+  "lon": 36.349744,
+  "maps": "https://maps.app.goo.gl/7qUWqYEYqyrTRZjw5"
+ },
+ {
+  "id": "parallel_ind",
+  "name": "50th Parallel",
+  "district": "Індустріальна",
+  "lat": 49.945077,
+  "lon": 36.400399,
+  "maps": "https://maps.app.goo.gl/fZcknUicty6FsbfW7"
+ },
+ {
+  "id": "budivelna",
+  "name": "Будівельна ресторація",
+  "district": "Балашівка",
+  "lat": 49.982008,
+  "lon": 36.279057,
+  "maps": "https://maps.app.goo.gl/V3VT4iaLzncJKYjXA"
+ },
+ {
+  "id": "strilka",
+  "name": "Strilka-gastrobar",
+  "district": "Центр",
+  "lat": 49.988104,
+  "lon": 36.227418,
+  "maps": "https://maps.app.goo.gl/mYFnyXCx4QWDggjo7"
+ },
+ {
+  "id": "true_hookah",
+  "name": "True Hookah bar",
+  "district": "Центр",
+  "lat": 49.987235,
+  "lon": 36.230459,
+  "maps": "https://maps.app.goo.gl/SMNALteca1jyBjjBA"
+ },
+ {
+  "id": "lobster",
+  "name": "Lobster",
+  "district": "Центр",
+  "lat": 49.998708,
+  "lon": 36.244294,
+  "maps": "https://maps.app.goo.gl/V8kMtFNEhbdNcFyy8"
+ },
+ {
+  "id": "true_hookah_white",
+  "name": "True Hookah bar WHITE",
+  "district": "Центр",
+  "lat": 49.989165,
+  "lon": 36.234218,
+  "maps": "https://maps.app.goo.gl/HRMh1sr1GLqNX4iC6"
+ }
+]
