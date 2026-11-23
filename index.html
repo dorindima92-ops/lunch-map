@@ -80,8 +80,18 @@ function render(places) {
       (p.maps ? '<a class="b route" href="' + esc(p.maps) + '" target="_blank" rel="noopener">🧭 Маршрут</a>' : '') + '</div>';
     markers.push(L.marker([p.lat, p.lon], { icon }).addTo(map).bindPopup(html));
   });
-  if (shown.length) map.fitBounds(L.latLngBounds(shown.map(p => [p.lat, p.lon])), { padding: [40, 40], maxZoom: 15 });
+  lastShown = shown;
+  fit();
 }
+
+let lastShown = [];
+function fit() {
+  map.invalidateSize();
+  if (lastShown.length) map.fitBounds(L.latLngBounds(lastShown.map(p => [p.lat, p.lon])), { padding: [30, 30], maxZoom: 15 });
+}
+// Telegram розгортає вікно не одразу: перераховуємо розмір і масштаб, коли воно змінюється
+window.addEventListener("resize", () => setTimeout(fit, 200));
+if (tg && tg.onEvent) tg.onEvent("viewportChanged", e => { if (!e || e.isStateStable) setTimeout(fit, 100); });
 
 function buildBar(places) {
   const bar = document.getElementById("bar");
@@ -95,7 +105,7 @@ function buildBar(places) {
 }
 
 fetch("places.json?v=" + Date.now()).then(r => r.json()).then(places => {
-  buildBar(places); render(places);
+  buildBar(places); render(places); setTimeout(fit, 400);
 }).catch(() => {
   const e = document.getElementById("err"); e.style.display = "block";
   e.textContent = "Не вдалося завантажити список закладів. Спробуйте пізніше.";
