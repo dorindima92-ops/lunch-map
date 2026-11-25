@@ -294,5 +294,13 @@
   "lat": 49.997094,
   "lon": 36.23849,
   "maps": "https://maps.app.goo.gl/qEjNx3jVpXNWeEo98"
+ },
+ {
+  "id": "big_ben",
+  "name": "Big Ben Pub",
+  "district": "Наукова",
+  "lat": 50.028369,
+  "lon": 36.222898,
+  "maps": "https://maps.app.goo.gl/M2RDi5mCSHikD7x88"
  }
 ]
