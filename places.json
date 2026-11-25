@@ -302,5 +302,13 @@
   "lat": 50.028369,
   "lon": 36.222898,
   "maps": "https://maps.app.goo.gl/M2RDi5mCSHikD7x88"
+ },
+ {
+  "id": "the_rooms",
+  "name": "The Rooms",
+  "district": "Центр",
+  "lat": 50.006413,
+  "lon": 36.237117,
+  "maps": "https://maps.app.goo.gl/kWT5Tao7SasEutecA"
  }
 ]
