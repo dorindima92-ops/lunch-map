@@ -278,5 +278,21 @@
   "lat": 49.989165,
   "lon": 36.234218,
   "maps": "https://maps.app.goo.gl/HRMh1sr1GLqNX4iC6"
+ },
+ {
+  "id": "konfuz",
+  "name": "Конфуз",
+  "district": "Центр",
+  "lat": 49.993008,
+  "lon": 36.242817,
+  "maps": "https://maps.app.goo.gl/4krUmfdnKuMJMbCa6"
+ },
+ {
+  "id": "pushka_mindal",
+  "name": "Пушка-Миндаль",
+  "district": "Центр",
+  "lat": 49.997094,
+  "lon": 36.23849,
+  "maps": "https://maps.app.goo.gl/qEjNx3jVpXNWeEo98"
  }
 ]
